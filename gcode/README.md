@@ -20,12 +20,12 @@ Some parts have two corresponding gcode files. For those parts, usually, multipl
 
 For instance, the realsense needs two 3d printed parts to be mounted. They can both be printed with one file.
 
-'''
+```
 blasterxmounting_x2_0.2mm_PLA_MK3S.gcode
-'''
+```
 
 However, sometimes only one part is needed. Those single parts can be printed with the file not containing the "x2".
 
-'''
+```
 blasterxmounting_0.2mm_PLA_MK3S.gcode
-'''
+```
