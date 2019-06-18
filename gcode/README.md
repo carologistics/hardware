@@ -10,7 +10,7 @@ This folder, and all its subfolders, contain the  gcode files of all the current
 1. Copy the gcode file on the printers SD card
 2. Insert SD card back into printer
 3. Choose file to print
-   -If the files do not show up immediatly on the printer, press knob once and scroll down to "print from SD card"
+   - If the files do not show up immediatly on the printer, press knob once and scroll down to "print from SD card"
 4. Press knob once
 5. The print is starting
 
